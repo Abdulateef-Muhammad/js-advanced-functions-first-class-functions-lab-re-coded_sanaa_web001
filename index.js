@@ -18,3 +18,4 @@ const fareDoubler = createFareMultiplier(2);
 fareDoubler(2);
 
 const fareTripler = createFareMultiplier(3);
+fareTripler(10);
